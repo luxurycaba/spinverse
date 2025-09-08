@@ -211,10 +211,7 @@ Te derivo al instante con el área de pagos para que te hagan la transferencia �
   });
 
   titular.addEventListener("click", () => {
-    const texto = `La cuenta figura a nombre de *${inputTitular}* 🥰🍀
-
-Recordá porfavor 🙏🏼 *enviar debajo del comprobante TU USUARIO ASIGNADO 🙏🏼 para agilizar la carga de fichas* de lo contrario no podremos cargar tu saldo 🚫�
-`;
+    const texto = `La cuenta figura a nombre de *${inputTitular}* 🥰🍀`;
     copyToClipboard(texto);
   });
 
@@ -419,6 +416,7 @@ Te envió Alias? confírmame 🥰🍀
     document.body.style.overflow = "auto"; // Permitir desplazamiento del body
   });
 });
+
 
 
 
