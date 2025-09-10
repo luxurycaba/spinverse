@@ -93,46 +93,46 @@ document.addEventListener("DOMContentLoaded", function () {
   let saludosIndex = 0;
 
   const links = [
-`www.463.life`,
-`Accedé a: 463.life`,
-`https://www.463.life`,
-`Link: www.463.life`,
-`Ingresá a: 463.life`,
-`http://463.life`,
-`Te dejo el link: 🔗 463.life`,
-`463.life`,
-`Página web: 👑 463.life 👑`,
-`El link es: http://463.life`,
-`https://463.life`,
-`Sitio web: 🔗 463.life`,
-`Accedé a: 👑 463.life 👑`,
-`Ingresá a: www.463.life`,
-`Te dejo el link: 👑 463.life 👑`,
-`Link: 👑 463.life 👑`,
-`Accedé a: www.463.life`,
-`🔗 463.life`,
-`Ingresá a: http://463.life`,
-`El link es: www.463.life`,
-`Accedé a: 🔗 463.life`,
-`Link: https://463.life`,
-`https://463.life`,
-`Ingresá a: 👑 463.life 👑`,
-`Página web: www.463.life`,
-`El link es: 🔗 463.life`,
-`463.life`,
-`Te dejo el link: 463.life`,
-`Ingresá a: 🔗 463.life`,
-`Link: https://463.life`,
-`Te dejo el link: www.463.life`,
-`👑 463.life 👑`,
-`http://463.life`,
-`El link es: 463.life`,
-`Página web: https://463.life`,
-`463.life`,
-`Link: 🔗 463.life`,
-`www.463.life`,
-`Te dejo el link: www.463.life`,
-`Accedé a: 463.life`
+`www.jugaconlola.live`,
+`Accedé a: jugaconlola.live`,
+`https://www.jugaconlola.live`,
+`Link: www.jugaconlola.live`,
+`Ingresá a: jugaconlola.live`,
+`http://jugaconlola.live`,
+`Te dejo el link: 🔗 jugaconlola.live`,
+`jugaconlola.live`,
+`Página web: 👑 jugaconlola.live 👑`,
+`El link es: http://jugaconlola.live`,
+`https://jugaconlola.live`,
+`Sitio web: 🔗 jugaconlola.live`,
+`Accedé a: 👑 jugaconlola.live 👑`,
+`Ingresá a: www.jugaconlola.live`,
+`Te dejo el link: 👑 jugaconlola.live 👑`,
+`Link: 👑 jugaconlola.live 👑`,
+`Accedé a: www.jugaconlola.live`,
+`🔗 jugaconlola.live`,
+`Ingresá a: http://jugaconlola.live`,
+`El link es: www.jugaconlola.live`,
+`Accedé a: 🔗 jugaconlola.live`,
+`Link: https://jugaconlola.live`,
+`https://jugaconlola.live`,
+`Ingresá a: 👑 jugaconlola.live 👑`,
+`Página web: www.jugaconlola.live`,
+`El link es: 🔗 jugaconlola.live`,
+`jugaconlola.live`,
+`Te dejo el link: jugaconlola.live`,
+`Ingresá a: 🔗 jugaconlola.live`,
+`Link: https://jugaconlola.live`,
+`Te dejo el link: jugaconlola.live`,
+`👑 jugaconlola.live 👑`,
+`http://jugaconlola.live`,
+`El link es: jugaconlola.live`,
+`Página web: https://jugaconlola.live`,
+`jugaconlola.live`,
+`Link: 🔗 jugaconlola.live`,
+`www.jugaconlola.live`,
+`Te dejo el link: www.jugaconlola.live`,
+`Accedé a: jugaconlola.live`
   ];
   let linksIndex = 0;
 
@@ -381,7 +381,7 @@ En caso de no usar la bonificación, no es posible retirarla 🚫`;
 📲 Usu4rio: ${user}
 🔐 Cl4ve: vip123
 
-L1NK: https://463.life 🫰🏼
+L1NK: https://jugaconlola.live 🫰🏼
 
 🔺M1n1mo de c4rg4: *$1.000*
 🔺M1n1m0 de retiro: *$3.000*
@@ -403,7 +403,7 @@ Te envio 4li4s? confirmame 🥰
     const user = document.getElementById("usuarioRegistrar").value.trim();
     const texto = `✅ USUARIO REGISTRAD@ ✅ 
 
-Sitio web: https://463.life 🎰
+Sitio web: https://jugaconlola.live 🎰
 
 ♦️ *Usuario:* ${user}
 
@@ -416,6 +416,7 @@ Te envió Alias? confírmame 🥰🍀
     document.body.style.overflow = "auto"; // Permitir desplazamiento del body
   });
 });
+
 
 
 
