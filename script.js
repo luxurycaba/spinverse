@@ -235,7 +235,7 @@ Te derivo al instante con el área de pagos para que te hagan la transferencia �
   bono.addEventListener("click", () => {
     const texto = `⬇️ *INFO IMPORTANTE* ⬇️
  
-📣 Los juegos que permiten usar la bonificación se encuentran en la sección Juegos con Wager !!
+📣 Los juegos que permiten usar la bonificación se encuentran en Menú en la sección Juegos / Juegos con Wager !!
 En caso de no usar la bonificación, no es posible retirarla 🚫`;
     copyToClipboard(texto);
   });
@@ -246,25 +246,21 @@ En caso de no usar la bonificación, no es posible retirarla 🚫`;
   });  
 
   sistemaDePagos.addEventListener("click", () => {
-    const texto = `*Nuestro cronograma* : 
+    const texto = `*Nuestro cr0nogr4ma* : 
 
 ♦️ Días hábiles: De 12:00hs a 04:00hs 
 ♦️ Fines de semana: De 12:00hs a 06:00hs
-♦️Mínimo de retiro: $3.000
+♦️ M1nimo de r3tiro: $3.000
 
  *Importante* ‼⬇
 
-♦️ Usuario que retire desde $3.000 a $30.000 puede realizar un retiro mas en el día.
+💥 *MAXIMO DE R3TIRO DEPENDIENDO DE LA C4RGA* ⬇️⬇️
 
-♦️ Para retiros superiores a $30.000, se permite solo un retiro diario.
+♦️Si la c4rga es menor a 50.000 puede r3tirar hasta 100.000 diarias 💪🏼
 
-💥 *MAXIMO DE RETIRO DEPENDIENDO DE LA CARGA* ⬇️⬇️
+♦️Si la c4rga es a partir de 50.000 puede r3tirar hasta 150.000 🫰🏼
 
-♦️Si la carga es menor a 50.000 puede retirar hasta 100.000 diarias 💪🏼
-
-♦️Si la carga es a partir de 50.000 puede retirar hasta 150.000 🫰🏼
-
-♦️Si la carga es a partir de 100.000 puede retirar hasta 200.000 diarios 🙌🏻
+♦️Si la c4rga es a partir de 100.000 puede r3tirar hasta 200.000 diarios 🙌🏻
 `;
     copyToClipboard(texto);
   });
@@ -374,7 +370,7 @@ En caso de no usar la bonificación, no es posible retirarla 🚫`;
     e.preventDefault(); // Evita el comportamiento por defecto del formulario
     overlayBienvenida.style.display = "none"; // Cerrar el overlay del segundo menú
     const user = document.getElementById("usuarioBienvenida").value.trim();
-    const texto = `¡Bienvenid@ a SPINVERSE c4sin0! 🎰🔥 Tu suerte arranca HOY 🍀🫰🏼
+    const texto = `¡Bienvenid@ a JUGACONLOLA c4sin0! 🎰🔥 Tu suerte arranca HOY 🍀🫰🏼
 
 💥 *200% de b0n0 de regalo en tu primer deposito*💃
 
@@ -401,21 +397,22 @@ Te envio 4li4s? confirmame 🥰
     e.preventDefault(); // Evita el comportamiento por defecto del formulario
     overlayRegistrar.style.display = "none"; // Cerrar el overlay del tercer menú
     const user = document.getElementById("usuarioRegistrar").value.trim();
-    const texto = `✅ USUARIO REGISTRAD@ ✅ 
+    const texto = `✅ USU4RIO REGISTRAD@ ✅ 
 
 Sitio web: https://jugaconlola.live 🎰
 
-♦️ *Usuario:* ${user}
+♦️ *Usu4rio:* ${user}
 
 ♦️ *Clave:* vip123
 
-Te envió Alias? confírmame 🥰🍀
+Te envio Alias? confirmame 🥰🍀
 `;
     copyToClipboard(texto);
     formRegistrar.reset(); // Limpiar los campos del formulario
     document.body.style.overflow = "auto"; // Permitir desplazamiento del body
   });
 });
+
 
 
 
