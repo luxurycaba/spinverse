@@ -375,7 +375,7 @@ En caso de no usar la bonificación, no es posible retirarla 🚫`;
 
 ★ *200% de b0n0 de regalo en tu primer deposito* ★
 
-➜  Usu4rio: ${inputTitular}
+➜  Usu4rio: ${user}
 ➜  Cl4ve: vip123
 
 L1NK: https://jugaconlola.live ✪
@@ -413,6 +413,7 @@ Te envio Alias? confirmame 🥰🍀
     document.body.style.overflow = "auto"; // Permitir desplazamiento del body
   });
 });
+
 
 
 
