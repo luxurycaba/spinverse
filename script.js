@@ -370,22 +370,23 @@ En caso de no usar la bonificación, no es posible retirarla 🚫`;
     e.preventDefault(); // Evita el comportamiento por defecto del formulario
     overlayBienvenida.style.display = "none"; // Cerrar el overlay del segundo menú
     const user = document.getElementById("usuarioBienvenida").value.trim();
-    const texto = `¡Bienvenid@ a JUGACONLOLA c4sin0! 🎰🔥 Tu suerte arranca HOY 🍀🫰🏼
+    const texto = `*¡Bienvenid@ a JUGACONLOLA!*
+✦ Tu suerte arranca HOY ✦
 
-💥 *200% de b0n0 de regalo en tu primer deposito*💃
+★ *200% de b0n0 de regalo en tu primer deposito* ★
 
-📲 Usu4rio: ${user}
-🔐 Cl4ve: vip123
+➜  Usu4rio: griselda49589
+➜  Cl4ve: vip123
 
-L1NK: https://jugaconlola.live 🫰🏼
+L1NK: https://jugaconlola.live ✪
 
-🔺M1n1mo de c4rg4: *$1.000*
-🔺M1n1m0 de retiro: *$3.000*
-🔺Atencion las 24 hs 🕒
-🔺Consultar cr0nogr4ma de pagos‼️
-🔺B0nus en todas tus c4rgas diarias 💃🥳
+▲ M1n1mo de c4rga: *$1.000*
+▲ M1n1m0 de r3tiro: *$3.000*
+▲ Atención las 24 HS
+▲ Consultar cr0nogr4ma de pagos *!!*
+▲ B0nus en todas tus c4rgas diarias ★
 
-Te envio 4li4s? confirmame 🥰
+Te envio ALI4S o CBU? confirmame ❖
 `;
     copyToClipboard(texto);
     formBienvenida.reset(); // Limpiar los campos del formulario
@@ -412,6 +413,7 @@ Te envio Alias? confirmame 🥰🍀
     document.body.style.overflow = "auto"; // Permitir desplazamiento del body
   });
 });
+
 
 
 
