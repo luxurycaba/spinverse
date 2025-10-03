@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const btnBienvenida = document.getElementById("btn-bienvenida");
   const btnRegistrarUsuario = document.getElementById("btn-registrarUsuario");
   const acreditadas = document.getElementById("btn-acreditadas");
+  const acreditadasPubli = document.getElementById("btn-acreditadasPubli");
   const link = document.getElementById("btn-link");
   const bono = document.getElementById("btn-bono");
   const sectorPagos = document.getElementById("btn-sectorPagos");  
@@ -181,6 +182,12 @@ Te derivo al instante con el área de pagos para que te hagan la transferencia �
     document.execCommand("copy");
     document.body.removeChild(elementoTemporal);
   }
+
+  acreditadasPubli.addEventListener("click", () => {
+    const texto = `*Listo!!* Acreditadas!! Mucha suerte!! Ingresa a ➜ www.jugaconlola.live
+*Para sus próximas acreditaciones o r3tiros por favor agendame como Lola en la linea principal así podemos darte una atención mas exclusiva* ➜ +54 9 11 3296-1154`;
+    copyToClipboard(texto);
+  });
 
   saludo.addEventListener("click", () => {
     copyToClipboard(saludos[saludosIndex]);
@@ -413,6 +420,7 @@ Te envio Alias? confirmame 🥰🍀
     document.body.style.overflow = "auto"; // Permitir desplazamiento del body
   });
 });
+
 
 
 
